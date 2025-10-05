@@ -1,0 +1,13 @@
+
+{
+	"artifacts": [
+		{
+			"name": "toa-extended.jar",
+			"plugins": ["net.runelite.client.plugins.toaextended"],
+			"version": "1.0",
+			"path": "https://github.com/imShyy/plugins/raw/main/toa-extended.jar",
+			"hash": "a3a9d7be097050c355540669ddf95365ede63410fd02c6b24bda574a2bc57d12",
+			"description": "Extended TOA plugin"
+		}
+	]
+}
